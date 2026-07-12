@@ -1,10 +1,12 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=R+I+T+H+I" />
+<img width="100%" src="./assets/banner.svg"/>
 
-<h3>
-AI • FULL STACK • AUTOMATION
-</h3>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Premium+Web+Experiences;Always+Learning+Something+New"/>
+
+</div>
 
 <p>
 Building intelligent products for tomorrow.
