@@ -1,0 +1,145 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#05070A"/>
+<stop offset="100%" stop-color="#0B1220"/>
+</linearGradient>
+
+<linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00BFFF"/>
+<stop offset="100%" stop-color="#00E5FF"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="6" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1600" height="500" fill="url(#bg)"/>
+
+<g opacity="0.08">
+
+<path d="M0 50 H1600"/>
+<path d="M0 100 H1600"/>
+<path d="M0 150 H1600"/>
+<path d="M0 200 H1600"/>
+<path d="M0 250 H1600"/>
+<path d="M0 300 H1600"/>
+<path d="M0 350 H1600"/>
+<path d="M0 400 H1600"/>
+<path d="M0 450 H1600"/>
+
+</g>
+
+<text
+x="90"
+y="90"
+font-size="24"
+fill="#00BFFF"
+font-family="JetBrains Mono">
+
+NEURAL OS v2.0
+
+</text>
+
+<text
+x="90"
+y="200"
+font-size="82"
+font-weight="800"
+fill="url(#blue)"
+font-family="Arial"
+filter="url(#glow)">
+
+R I T H I
+
+</text>
+
+<text
+x="90"
+y="255"
+font-size="28"
+fill="#ffffff">
+
+AI • FULL STACK • AUTOMATION
+
+</text>
+
+<text
+x="90"
+y="320"
+font-size="22"
+fill="#8CA6C9">
+
+Building intelligent products for tomorrow.
+
+</text>
+
+<rect
+x="980"
+y="60"
+width="500"
+height="370"
+rx="20"
+fill="#09111D"
+stroke="#00BFFF"
+stroke-width="2"/>
+
+<text
+x="1020"
+y="120"
+fill="#00E5FF"
+font-size="22">
+
+&gt; whoami
+
+</text>
+
+<text
+x="1020"
+y="170"
+fill="white"
+font-size="18">
+
+Name : R.V. Rithish Bala Kumar
+
+</text>
+
+<text
+x="1020"
+y="210"
+fill="white"
+font-size="18">
+
+Role : AI Developer
+
+</text>
+
+<text
+x="1020"
+y="250"
+fill="white"
+font-size="18">
+
+Status : ONLINE
+
+</text>
+
+<text
+x="1020"
+y="290"
+fill="white"
+font-size="18">
+
+Mission : BUILD THE FUTURE
+
+</text>
+
+</svg>
