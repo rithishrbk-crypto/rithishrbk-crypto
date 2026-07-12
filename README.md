@@ -113,3 +113,182 @@ class Rithi:
 | ☁ Cloud | ███████░░░ 70% |
 
 ---
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🍽 Restaurant Experience
+
+Premium restaurant website built with modern UI.
+
+**Stack**
+
+`Next.js`
+
+`React`
+
+`Tailwind CSS`
+
+`Responsive`
+
+**Status**
+
+🟢 Production
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Automation
+
+AI workflows & intelligent automation.
+
+**Stack**
+
+`Python`
+
+`FastAPI`
+
+`OpenClaw`
+
+`n8n`
+
+**Status**
+
+🟢 Active
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Portfolio
+
+A futuristic developer portfolio.
+
+**Stack**
+
+`React`
+
+`Next.js`
+
+`GSAP`
+
+`Tailwind`
+
+**Status**
+
+🟡 Building
+
+</td>
+
+<td width="50%">
+
+## 🧠 TruthLens
+
+AI-powered fake news detection.
+
+**Stack**
+
+`Python`
+
+`Machine Learning`
+
+`FastAPI`
+
+`NLP`
+
+**Status**
+
+🟡 Development
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rithishrbk-crypto&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&border_color=00BFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rithishrbk-crypto&theme=transparent&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&border=00BFFF"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithishrbk-crypto&layout=compact&theme=transparent&title_color=00BFFF&text_color=FFFFFF&border_color=00BFFF"/>
+
+</div>
+
+---
+
+# ⚡ CURRENT OBJECTIVES
+
+```text
+◉ MASTER FULL STACK DEVELOPMENT
+
+◉ BUILD AI PRODUCTS
+
+◉ LEARN DATA ENGINEERING
+
+◉ CONTRIBUTE TO OPEN SOURCE
+
+◉ CREATE PREMIUM DIGITAL EXPERIENCES
+
+◉ BUILD A SUCCESSFUL STARTUP
+```
+
+---
+
+# 🛰 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/rithishrbk-crypto">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Repeat();
+
+}
+```
+
+⭐ Thanks for visiting my profile.
+
+</div>
